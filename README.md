@@ -18,6 +18,10 @@ Steps
     make use of 
     http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/
     http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/
+
+  Step3 Autmatic multi tenanet networking :
+  ----------------------------------------
+    i.e. socketplane 
     
   Step3 Plane for production
   --------------------------
