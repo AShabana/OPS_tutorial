@@ -22,6 +22,10 @@ Steps
   Step3 Autmatic multi tenanet networking :
   ----------------------------------------
     i.e. socketplane 
+    https://www.youtube.com/watch?v=ukITRl58ntg
+                                  v=5uzUSk3NjD0
+                                  v=Icl0L8tQybs
+    
     
   Step3 Plane for production
   --------------------------
