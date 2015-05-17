@@ -29,3 +29,6 @@ Steps
     
   Step3 Plane for production
   --------------------------
+  i.e. make it PaaS 
+    https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes 
+    
